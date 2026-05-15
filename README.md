@@ -19,6 +19,7 @@ Battery +ve --> PWM V+
 Battery -ve --> PWM GND
 
 
+
 PWM VCC --> Arduino 5V
 
 PWM GND --> Arduino GND
@@ -28,9 +29,11 @@ PWM SCL --> Arduino A5
 PWM SCA --> Arduino A4
 
 
+
 Switch 1 --> D2 and GND
 
 Switch 2 --> D3 and GND
+
 
 
 Servo 1 --> PWM Channel 0
