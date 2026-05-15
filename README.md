@@ -47,3 +47,5 @@ Servo 4 --> PWM Channel 3
 
 Note: Use bread board to connect GND's as there are not many GND pins in Arduino nano or UNO.
 
+You also need to push the .ino file in the RoboticArmController directory into your Arduino board.
+
